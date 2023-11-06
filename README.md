@@ -102,6 +102,12 @@ curl  -X POST \
 
 GitHub action is used to deploy this project to Heroku. You can find the details in [actions file](.github/workflows/main.yaml).
 
+![trigger deployment](/images/trigger_deployment.png "trigger doployment")
+
+![deploy to heroku github actions](/images/deploy_to_heroku_github_actions.png "deploy to heroku github actions")
+
+![send post request to heroku](/images/send_post_request_to_heroku.png "send post request to heroku")
+
 # Contact
 
 If you have any question please [create an issue](https://github.com/ozgeozge/heart-failure-prediction/issues/new).

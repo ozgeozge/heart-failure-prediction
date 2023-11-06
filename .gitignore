@@ -1,3 +1,4 @@
 # *.csv
 Pipfile*
 *.bin
+.DS_Store
